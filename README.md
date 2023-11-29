@@ -45,27 +45,22 @@ The dataset contains information about hotel bookings and includes the following
 
 ## Highlights of Our Analysis
 
-- Total Games Released on Different Years
+- Total Games Released in Different Years
 - Top 3 Platforms with Biggest Sales
-- Top 3 Platform Sales Distribution
-- Obselete Platform
-- Lifespan of Unpopular and Popular Platform
-- List of The Platform became Unpopular with The Year
-- All Platform Lifespan
+- Lifespan of Unpopular and Popular Platforms
 - Top 10 Platforms with Biggest Sales
 - Global Sales of All Games Categorized by Platform
 - Correlation between 'user_score' and 'critic_score' Affect the Top Platform
 - Top 5 Sales of Games with Many Platform Distribution
 - Distribution of Top Sales based on Game's Genre
 - User Profile Based on Area
-- Area Sales Distribution for Top 1 Platform
 - Hypothesis Testing
 
 
 ## Requirements
 
 - Python 3
-- Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
+- Libraries: pandas, numpy, matplotlib, seaborn, stats
 
 ## Getting Started
 
