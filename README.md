@@ -43,25 +43,24 @@ The dataset contains information about hotel bookings and includes the following
 - `reservation_status_date`: Date of the last reservation status update
 
 
-## Key Features
+## Highlights of Our Analysis
 
-1. **Data Preparation**
-2. **Games Analysis**
-3. **Data Analysis Exploration**
-4. **Hypothesis Testing**
-5. 
+- Total Games Released on Different Years
+- Top 3 Platforms with Biggest Sales
+- Top 3 Platform Sales Distribution
+- Obselete Platform
+- Lifespan of Unpopular and Popular Platform
+- List of The Platform became Unpopular with The Year
+- All Platform Lifespan
+- Top 10 Platforms with Biggest Sales
+- Global Sales of All Games Categorized by Platform
+- Correlation between 'user_score' and 'critic_score' Affect the Top Platform
+- Top 5 Sales of Games with Many Platform Distribution
+- Distribution of Top Sales based on Game's Genre
+- User Profile Based on Area
+- Area Sales Distribution for Top 1 Platform
+- Hypothesis Testing
 
-
-
-1. **Data Exploration**: Load the dataset, examine its size, and check for missing values.
-2. **Data Preprocessing**: Handle missing values and perform feature engineering.
-3. **Correlation Analysis**: Visualize the correlation between numerical features.
-4. **Cancelation Analysis**: Analyze the cancelation rate by hotel and market segment.
-5. **Customer Analysis**: Explore customer types, number of adults, children, and babies, and customer behavior based on market segment and hotel type.
-6. **Pricing Analysis**: Examine the average daily rate (ADR) by hotel and the distribution of the average total price per booking.
-7. **Room Analysis**: Analyze the room type distribution and the relationship between reserved and assigned room types.
-8. **Behavior Analysis**: Investigate the distribution of bookings with different deposit types, the number of special requests, and the car parking space requirement.
-9. **Predictive Model**: Build time series forecasting models for cancelations and future bookings.
 
 ## Requirements
 
