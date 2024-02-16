@@ -1,10 +1,8 @@
-# Entertainment Software Rating Board 2016 Analysis
+# Entertainment Software Rating Board (ESRB) Data for Video Game Sales Forecasting and Marketing Campaign Planning in 2017
 
 ## Introduction
 
-Welcome to the repository for Project Sprint 5 from the Tripleten Indonesia course (Practicum). In this project, we delve into the analysis of the Entertainment Software Rating Board (ESRB) data for the year 2016. The dataset, generously provided by Tipleten Indonesia, encompasses user and expert reviews, genre information, platform specifics, and historical sales data of video games. One notable aspect of this dataset is the inclusion of ESRB ratings, providing age classifications for games.
-
-The primary objective of our analysis is to unearth sales trends and determinants of success in the gaming industry. As we prepare for the 2017 marketing campaign for the online store "Ice," we aim to understand user preferences, predict market trends, and identify promising games. Our findings will serve as a guide for the upcoming advertising campaign, enhancing the shopping experience for "Ice" customers.
+As an analyst at the 'Ice' online game store, the objective is to delve into user and expert reviews, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data available from open sources. The task involves identifying patterns determining the success of a game and planning advertising campaigns. Working with 2016 data, the aim is to prepare and analyze the dataset, uncovering insights to guide campaign planning for 2017. The dataset includes Entertainment Software Rating Board (ESRB) abbreviations, evaluated content ratings like Teen or Mature. The project spans data preparation, descriptive analysis, and profiling user segments across different regions.
 
 ## Dataset Description
 
